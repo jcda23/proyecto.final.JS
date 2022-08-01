@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Diapositiva1",
+    "diapositiva": "https://placeimg.com/1000/600/tech",
+    "content": "camping is always fun",
+    "texto": "Cool summer sale 50%",
+    "boton": "COMPRAR"
+  },
+  {
+    "title": "Diapositiva 2",
+    "diapositiva": "https://placeimg.com/1000/600/people",
+    "content": "Contigo ecamping is always fun",
+    "texto": "Cool summer sale 50%",
+    "boton": "COMPRAR"
+  },
+  {
+    "title": "Diapositiva 3",
+    "diapositiva": "https://loremflickr.com/1000/600/paris,girl/all",
+    "content": "camping is always fun",
+    "texto": "Cool summer sale 50%",
+    "boton": "COMPRAR"
+  },
+  {
+    "title": "Diapositiva 4",
+    "diapositiva": "https://placeimg.com/1000/600/nature",
+    "content": "camping is always fun",
+    "texto": "Cool summer sale 50%",
+    "boton": "COMPRAR"
+  }
+]
